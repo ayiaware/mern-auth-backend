@@ -17,6 +17,8 @@ This is a Node.js-based backend project demonstrating authentication using **JWT
 
 ## Installation
 
+See [Setting up a development environment for a new MERN project a step-by-step guide](https://medium.com/@ayiaware/setting-up-a-development-environment-for-a-new-mern-project-a-step-by-step-guide-dea23279c771) for more details. 
+
 1. Clone the repository:
    ```bash
    git clone https://github.com/ayiaware/mern-auth-backend.git
@@ -34,14 +36,19 @@ This is a Node.js-based backend project demonstrating authentication using **JWT
 
 4. Start the server:
     ```bash
-    npm start
+    npm start ```
+
+
+    
 
 ## Testing
    ```bash
    npm test 
   ```
 
-Dependencies
+
+## Dependencies
+
 - Express: Framework for building server-side applications.
 - Mongoose: ODM for MongoDB.
 - jsonwebtoken: For generating JWT tokens.
@@ -52,3 +59,4 @@ Dependencies
 - cors: To enable cross-origin requests.
 - jest: For testing.
 - winston: For logging.
+
