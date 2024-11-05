@@ -1,0 +1,19 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules/
+
+# Environment variables
+.env
+
+# MacOS files
+.DS_Store
+
+# Coverage directory (if you’re using coverage tools)
+coverage/
+
+# Session files (if you’re using session storage on disk)
+sessions/
